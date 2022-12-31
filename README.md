@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I've never touched the grass  
   
 
-- 🧠 I'm learning Golang/C/C++ and tons of other things  
+- 🧠 I'm learning Golang/C/Python and tons of other things  
   
 
 <br/>  

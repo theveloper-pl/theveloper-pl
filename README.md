@@ -6,7 +6,7 @@
 ### <div align="center">I'm Mateusz, a full-time software engineer 👨‍💻 working remotely from Poland 🚀</div>  
   
 
-- 🔭 I’m currently working on [API for Restaurant](https://github.com/theveloper-pl/LittleLemonAPI)  
+- 🔭 I’m currently working on becoming better developer
   
 
 - 🌱 I’m currently learning Django Rest Framework  
